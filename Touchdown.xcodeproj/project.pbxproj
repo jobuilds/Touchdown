@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F26F425262A46A2005A2204 /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F26F424262A46A2005A2204 /* SectionView.swift */; };
 		1F8D4359261F733800A9690D /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8D4358261F733800A9690D /* NavigationBarView.swift */; };
 		1F8D435C261FB40B00A9690D /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8D435B261FB40B00A9690D /* LogoView.swift */; };
 		1F8D435F261FB83500A9690D /* PlayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8D435E261FB83500A9690D /* PlayerModel.swift */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F26F424262A46A2005A2204 /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 		1F8D4358261F733800A9690D /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
 		1F8D435B261FB40B00A9690D /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
 		1F8D435E261FB83500A9690D /* PlayerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModel.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				1F8D4367261FBC3600A9690D /* FeaturedTabView.swift */,
 				1F8D436D261FBF9C00A9690D /* CategoryItemView.swift */,
 				1F8D4370261FC13600A9690D /* CategoryGridView.swift */,
+				1F26F424262A46A2005A2204 /* SectionView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				1F8D4371261FC13600A9690D /* CategoryGridView.swift in Sources */,
 				1F8D436B261FBE7000A9690D /* CategoryModel.swift in Sources */,
 				1F8D4359261F733800A9690D /* NavigationBarView.swift in Sources */,
+				1F26F425262A46A2005A2204 /* SectionView.swift in Sources */,
 				1F8D436E261FBF9C00A9690D /* CategoryItemView.swift in Sources */,
 				1F8D4368261FBC3600A9690D /* FeaturedTabView.swift in Sources */,
 				1F8D435F261FB83500A9690D /* PlayerModel.swift in Sources */,
